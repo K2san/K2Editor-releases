@@ -14,3 +14,5 @@ https://github.com/K2san/K2Editor-releases/releases/
 (申し訳ありませんがGitHubのアカウントが必要です)
 
 https://github.com/K2san/K2Editor-releases/issues
+
+![Downloads](https://img.shields.io/github/downloads/k2san/K2Editor-releases/total)
